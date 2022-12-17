@@ -1,4 +1,4 @@
-# Predição dos jogos da copa do Qatar
+# Predição dos Jogos da Copa do Qatar
 
 <img src="https://img.estadao.com.br/resources/jpg/7/6/1590009250767.jpg" alt="Copa do Catar">
 
