@@ -106,8 +106,7 @@ col4.metric(selecao2, prob[2])
 col5.image(df_selecao.loc[selecao2, 'LinkBandeiraGrande'])
 
 st.markdown('---')
-st.markdown("## 📊 Probabilidades dos Placares") 
-
+st.markdown("## Probabilidades de Gols na Partida") 
 def aux(x):
 	return f'{str(round(100*x,1))}%'
 st.table(matriz.applymap(aux))
