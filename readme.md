@@ -2,7 +2,7 @@
 
 <img src="https://img.estadao.com.br/resources/jpg/7/6/1590009250767.jpg" alt="Copa do Catar">
 
-# Introdução
+## Introdução
 O projeto tem como principal objetivo identificar possíveis ganhadores da copa de 2022. Assim, o algoritmo tem como produto gerar resultados das probabilidades de cada seleção de ser o 1°, 2°, 3° e 4° do seu grupo. Além disso, calcula as chances de cada seleção passar de fase, ou seja, as oitavas, quartas, semis-finais.
 
 # Onde encontrar o modelo?
