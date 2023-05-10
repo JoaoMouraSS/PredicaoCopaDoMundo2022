@@ -12,6 +12,6 @@ O algoritmo foi posto em produção através da plataforma do StreamLit. Portant
 Poderá manipular os jogos independentes, ou seja, saber as probabilidades de cada seleção. Além disso, o possivel placar do jogo.
 
 ## Conclusão
-No arquivo resultado.csv, que pode ser encontrado nesse repositorio, foi que, feita a simualação 1000 vezes, teremos com o grande campeão dessa edição da copa o Brasil, sendo que em 2° lugar tem a argentina, em 3° a Belgica.
+No arquivo resultado.csv, que pode ser encontrado nesse repositorio, foi que, feita a simualação 1000 vezes, teremos com o grande campeão, ou seja, o 1° lugar dessa edição da copa, o Brasil, sendo que em 2° lugar tem a argentina, em 3° a Belgica.
 
 <img src="https://www.opovo.com.br/_midias/jpg/2022/11/23/800x600/1_neymar_vinicius_junior_paqueta_brasil_copa_do_mundo_2022-20328074.jpg" alt="Copa do Catar">
